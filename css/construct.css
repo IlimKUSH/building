@@ -1,0 +1,37 @@
+.construct__title{
+    font-family: Inter;
+    font-size: 32px;
+    line-height: 48px;
+    color: #212B31;
+    margin-bottom: 8px;
+}
+.construct__text{
+    display: flex;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    color: #72787D;
+    margin-top: 8px;
+    margin-bottom: 28px;
+}
+.construct__link{
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    color: #212B31;
+    margin-top: 14px;
+}
+.construct__content{
+    display: flex;
+    justify-content: center;
+    margin-top: 168px;
+}
+.line{
+    max-width: 1056px;
+    margin: 71px auto 28px;
+}
+.line2{
+    margin: 56px 176px 0 176px;
+    max-width: 1056px;
+    margin: 56px auto 0;
+}

@@ -1,0 +1,17 @@
+.chaos__content{
+    text-align: center;
+    margin-top: 142px;
+}
+.chaos__title{
+    font-family: Inter;
+    font-size: 32px;
+    line-height: 48px;
+    color: #212B31;
+}
+.chaos__text{
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    color: #72787D;
+    margin-top: 14px;
+}

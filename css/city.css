@@ -1,0 +1,25 @@
+.yel__city{
+    padding: 149px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.city__img{
+    display: flex;
+    background: url(../img/yel-city.png),;
+    border-radius: 6px;
+    width: 1056px;
+}
+.city__title{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 64px; 
+    text-align: center;
+    color: #212B31;
+    margin: 117px 38px 54px 38px;
+}
+.city__content{
+    position: absolute;
+}

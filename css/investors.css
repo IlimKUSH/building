@@ -1,0 +1,15 @@
+.investors{
+    max-width: 1088px;
+    margin: 0 auto;
+}
+.investors__content{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1056px;
+    justify-content: space-around;
+    margin: 56px 0;
+    align-items: center;
+}
+.investors__content img{
+    margin: 0 15.5px;
+}
